@@ -1,2 +1,1 @@
-# Portfolio-website
-Code related to my Portfolio website
+# Build-a-Complete-Responsive-Personal-Portfolio-Website-using-HTML-CSS-JavaScript
